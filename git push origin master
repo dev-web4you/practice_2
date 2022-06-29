@@ -1,0 +1,23 @@
+[33mcommit 71fc0e1a3edcc33fd3dad41c7d8640cfa1deb45e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vasiliy <vigonin83@gmail.com>
+Date:   Mon Jun 27 23:07:03 2022 +0300
+
+    add .gitignore
+
+[33mcommit 90fa553abc556e28b41f436197131bcf00b2a933[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Vasiliy <vigonin83@gmail.com>
+Date:   Mon Jun 27 22:47:13 2022 +0300
+
+    add one step
+
+[33mcommit 17d27027bc795d032a08e58553efd6edc8631986[m
+Author: Vasiliy <vigonin83@gmail.com>
+Date:   Mon Jun 27 22:43:41 2022 +0300
+
+    to push data on Git Hub
+
+[33mcommit 90f7cd968345f53ed1b299fda3734ab897ea0cc1[m
+Author: unknown <vigonin83@gmail.com>
+Date:   Mon Jun 27 22:22:01 2022 +0300
+
+    initial project
